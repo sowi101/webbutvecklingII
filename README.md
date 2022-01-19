@@ -10,4 +10,6 @@ I momentet ingår det att:
 - Skapa ett remote repository med tillhörande README-fil (den du läser).
 
 ## Om
-Skapad av Sofia Widholm 2022
+Repot kommer att innehålla moment skapade under kursens gång.
+
+Skapad av Sofia Widholm 2022.
